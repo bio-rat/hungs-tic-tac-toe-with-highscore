@@ -199,12 +199,13 @@ class Game extends React.Component {
       method: "DELETE"
     });
     const report = await response.json();
-    console.group(report);
+    console.log(report);
   }
 
   componentDidMount() {
     this.handleGetHighScoreFromSever();
   }
+
   render() {
     const history = this.state.history;
     const current = history[this.state.stepNumber];

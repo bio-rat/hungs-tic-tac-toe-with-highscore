@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Netlify link
 
-https://hungs-tic-tac-toe.netlify.com/
+https://hungs-tic-tac-toe-w-login.netlify.com/
 
 ## Available Scripts
 
@@ -70,5 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # hungs-tic-tac-toe-with-highscore
+
 # hungs-tic-tac-toe-with-highscore
